@@ -1,0 +1,51 @@
+/*Fonte Google*/
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Playfair+Display&display=swap');
+
+.container {
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px #9ce6ff;
+    background-color: #b7edff;
+    width: 50rem;
+    height: 30rem;
+
+    /*Fontes Disponiveis*/
+    /*font-family: 'Indie Flower', cursiva;*/ 
+    font-family: 'Playfair Display', serifa;
+}
+
+h1.texto {
+    border-bottom: 2px solid #00bfff;
+    text-transform: uppercase;
+}
+
+label.legenda {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.links {
+    margin: 5%;
+}
+
+/* Apesar de, no React, ser 'link'
+   para estilizar se usa 'a'.     */
+.links a {
+
+    background-color: #00bfff;
+    color: #000000;
+    margin: 20px;
+    font-weight: bold;
+    padding: 20px;
+
+}
+
+.links a:link { text-decoration: none; }
+
+img {
+    width: auto;
+    height: 150px;
+}
