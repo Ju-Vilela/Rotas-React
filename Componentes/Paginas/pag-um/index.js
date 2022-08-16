@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './pag-um.css';
 
-export default function Pag-Um() {
+export default function PagUm() {
   return (
 
     <div className="container">
