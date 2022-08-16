@@ -1,0 +1,15 @@
+header {
+    margin-bottom: 1%;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+footer {
+    margin-top: 1%;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
