@@ -15,8 +15,8 @@ export default function PagUm() {
 
       <div className='links'>
 
-        <Link className='pag-um' to='/pag-um'>CSS</Link>
-        <Link className='pag-dois' to='/pag-dois'>JS</Link>
+        <Link className='pag-um' to='/pag-dois'>CSS</Link>
+        <Link className='pag-dois' to='/pag-tres'>JS</Link>
 
       </div>
       
