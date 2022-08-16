@@ -8,8 +8,7 @@ export default function PagUm() {
     <div className="container">
 
       <h1 className='texto'>HTML</h1>
-
-      //⚠ Não se põe imagem assim no React ⚠
+    
       <img src="https://cdn130.picsart.com/326989740015211.png"></img>
 
       <label className='legenda'>Escolha o Link:</label>
